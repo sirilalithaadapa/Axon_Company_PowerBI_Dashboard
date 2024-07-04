@@ -1,7 +1,5 @@
-# Axon_Company_PowerBI_Dashboard
-
 ### Axon Company Power BI Dashboard Project Overview
-
+----
 **Business Problem**: Axon, a retailer specializing in Classic cars, struggled with managing and analyzing their sales data effectively. Without a centralized system, obtaining accurate and timely sales reports was challenging.
 
 **Project Objectives**: Our capstone project focused on: 
