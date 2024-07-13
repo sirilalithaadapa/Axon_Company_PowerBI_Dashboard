@@ -23,4 +23,3 @@
 
 **Acknowledgments**: Special thanks to OdinSchool for their invaluable support and guidance throughout this journey.
 
-To explore the dashboard live, visit: [Axon Company Power BI Dashboard](https://lnkd.in/dqPFUD5m)
